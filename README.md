@@ -1,2 +1,2 @@
 # about-me
-A simple introduction website because bored
+Introduction website how cool wowowowowo
