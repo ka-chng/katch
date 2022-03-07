@@ -1,0 +1,64 @@
+h1 {
+  font-family: "Courier New";
+  font-weight: bold;
+  text-align: center;
+  color:azure;
+}
+
+.hyperlink {
+  vertical-align: top;
+  font-family: "Courier New";
+  text-shadow: rgb(184, 182, 182);
+  font-weight: bold;
+}
+
+body {
+  background: url("https://64.media.tumblr.com/82eacad10445178f75177e92de7c33fd/tumblr_pifheqP1sU1vwut2h_540.gifv");
+  background-size: cover;
+  background-color:azure;
+  text-align: justify;
+  color:#fff;
+  padding-top:10em;
+}
+
+* { color:#fff; text-decoration: none;}
+
+p {
+    font-family: "Courier New";
+    font-weight: bold;
+    color:rgb(240, 255, 255);
+    text-align: center;
+}
+
+.hyperlink:link {
+  color: #fff;
+}
+
+.hyperlink:visited {
+  color: #fff;
+}
+
+.hyperlink:hover {
+  color: #fff;
+}
+
+.hyperlink:active {
+  color: #fff;
+} 
+
+a:link {
+    color: rgb(21, 255, 255);
+}
+  
+  a:visited {
+    color: azure;
+}
+  
+  a:hover {
+    color: azure;
+}
+  
+a:active {
+    color: azure;
+}
+
